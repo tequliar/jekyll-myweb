@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 关于我
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: 墨隐阡陌-关于我
+description: 人生苦短，百年不过一场大梦。须知时光已逝，诗酒称年华，且行且珍惜。
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2018-02-10
     changefreq: weekly
 ---
 ## About our Site
