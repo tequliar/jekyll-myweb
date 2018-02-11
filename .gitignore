@@ -1,1 +1,4 @@
-.idea
+.idea/
+.bundle/
+_site/
+vendor/
