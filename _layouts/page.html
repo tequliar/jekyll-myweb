@@ -6,56 +6,50 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
+<head>
     {% include head.html %}
-	</head>
-	<body class="is-loading">
+</head>
+<body class="is-loading">
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+<!-- Wrapper -->
+<div id="wrapper" class="fade-in">
 
-				<!-- Header -->
-				<header id="header">
-					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-				</header>
+    <!-- Header -->
+    <header id="header">
+        <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+    </header>
 
-				<!-- Nav -->
-					<nav id="nav">
+    <!-- Nav -->
+    <nav id="nav">
 
-            {% include nav.html %}
+        {% include nav.html %}
 
-						<ul class="icons">
-              <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
-              <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
-              <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
-              <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
-						</ul>
-					</nav>
+    </nav>
 
-				<!-- Main -->
-				<div id="main">
+    <!-- Main -->
+    <div id="main">
 
-					<!-- Post -->
-					<section class="post">
-						<p>{{content}}</p>
-					</section>
+        <!-- Post -->
+        <section class="post">
+            <p>{{content}}</p>
+        </section>
 
-					<!-- Footer -->
-						<footer>
-              <ul class="actions">
-								<li><a href="{{ "/blog/" | absolute_url }}" class="button">我的博客</a></li>
-              </ul>
-						</footer>
-					</div>
+        <!-- Footer -->
+        <footer>
+            <ul class="actions">
+                <li><a href="{{ "/blog/" | absolute_url }}" class="button">我的博客</a></li>
+            </ul>
+        </footer>
+    </div>
 
-				<!-- Footer -->
-        {% include foot.html %}
+    <!-- Footer -->
+    {% include foot.html %}
 
-			</div>
+</div>
 
-			<!-- Scripts -->
-			{% include scripts-main.html %}
-			{% include tracking.html %}
+<!-- Scripts -->
+{% include scripts-main.html %}
+{% include tracking.html %}
 
-	</body>
+</body>
 </html>
