@@ -2,7 +2,7 @@
 title:              墨隐阡陌
 bio:                '人生苦短，百年不过一场大梦。须知时光易逝，诗酒趁年华，且行且珍惜。'
 description:        "人生苦短，百年不过一场大梦。须知时光易逝，诗酒趁年华，且行且珍惜。"
-locale:             en_US
+locale:             zh_CN
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
