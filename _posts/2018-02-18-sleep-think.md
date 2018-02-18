@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "大学寝室睡觉的正确打开方式？"
+title:  "[反思总结]大学寝室睡觉的正确打开方式？"
 date:   2018-02-18
 excerpt: "在大学寝室里关于睡觉的一些思考"
 image: "http://ots2ozzjq.bkt.clouddn.com/picture/sunshine/966580.jpg"
