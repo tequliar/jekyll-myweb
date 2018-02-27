@@ -1,27 +1,28 @@
 ---
 layout: page
-title: 墨隐阡陌-关于我
+title: 墨隐阡陌-关于
 description: 人生苦短，百年不过一场大梦。须知时光易逝，诗酒趁年华，且行且珍惜。
 sitemap:
     priority: 0.7
     lastmod: 2018-02-10
     changefreq: weekly
 ---
-## About our Site
+## 关于
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+Hi, 你好, 很高兴见到你~   
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+这里是hycinthee的个人博客， 在这里记录了一些杂七杂八的想法与笔记.   
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+非常感谢你的关注~  
 
-### Content is Imortant
+如果想看网站的源代码, github: https://github.com/hyacinthee/hyacinthee.github.io   
+
+欢迎给我留言评论，也可以在底部给我发私信，我会及时回复的   
+
+### 相关链接：
 <div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
+  <p>github主页：<a href="https://github.com/hyacinthee/">https://github.com/hyacinthee/</a></p>  
+  <p>知乎主页：<a href="https://www.zhihu.com/people/qian-ling-shuang-hua/">https://www.zhihu.com/people/qian-ling-shuang-hua/</a></p>  
+  <p>简书主页：<a href="https://www.jianshu.com/users/f0c2bdc0ec0b/">https://www.jianshu.com/users/f0c2bdc0ec0b/</a></p>  
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
