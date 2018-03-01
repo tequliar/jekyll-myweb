@@ -67,23 +67,15 @@
             <article>
                 <header>
                     <span class="date">{{ post.date | date_to_string }}</span>
-                    <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+                    <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
                 </header>
                 <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}"
                                                                                alt=""/></a>
                 <p>{{ post.excerpt }}</p>
                 <ul class="actions">
-                    <li><a href="{{ post.url | absolute_url }}" class="button">查看更多</a></li>
+                    <li><a href="{{ post.url | absolute_url }}" class="button">查看详情</a></li>
                 </ul>
             </article>
-            {% if mod3 == 0 %}
-            <article>
-                <header>
-                    <h2><a href="#">到底啦~</h2>
-                </header>
-
-            </article>
-            {% endif %}
             {% endfor %}
 
         </section>
