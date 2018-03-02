@@ -2,7 +2,7 @@
 layout: post
 title:  "[读书笔记]人性的弱点"
 date:   2018-03-01
-excerpt: "与其说是弱点不如说是优点，是每个人最可爱的地方。。"
+excerpt: "与其说是弱点不如说是优点，是每个人最可爱的地方~"
 image: "http://ots2ozzjq.bkt.clouddn.com/picture/sunshine/531848.jpg"
 ---
 
