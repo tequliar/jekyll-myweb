@@ -15,17 +15,5 @@ Hi, 你好, 很高兴见到你~
 
 非常感谢你的关注~  
 
-如果想看网站的源代码, github: https://github.com/hyacinthee/hyacinthee.github.io   
-
 欢迎给我留言评论，也可以在底部给我发私信，我会及时回复的   
-
-### 相关链接：
-<div class="box">
-  <p>github主页：</p>
-  <p><a href="https://github.com/hyacinthee/">https://github.com/hyacinthee/</a></p>  
-  <p>知乎主页：</p>
-  <p><a href="https://www.zhihu.com/people/qian-ling-shuang-hua/">https://www.zhihu.com/people/qian-ling-shuang-hua/</a></p>  
-  <p>简书主页：</p>
-  <p><a href="https://www.jianshu.com/users/f0c2bdc0ec0b/">https://www.jianshu.com/users/f0c2bdc0ec0b/</a></p>  
-</div>
 
