@@ -14,12 +14,12 @@ sitemap:
 这是一棵技能树，记录了迄今为止各类杂七杂八的技能点。  
 
 - 初始化时间：2018年07月28日   
-- 最后更新时间：2018年07月31日  
+- 最后更新时间：2018年08月01日  
 
 <!-- 网站居然不支持markdown的注释语法，好气啊 -->
 ## 一、技能树  
-- **我** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:34/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[█████===============]  
-  <!-- 我：总时间：34:12 -->
+- **我** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:37/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[█████===============]  
+  <!-- 我：总时间：37:17 -->
   - **英语** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }})  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:6/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[█===================]  
     <!-- 英语总时间：07:07 -->
     - **单词** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:6/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[█===================]  
@@ -50,7 +50,9 @@ sitemap:
       <!-- c：总时间：00:00 -->
   - **专业学习** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:0/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
     <!-- 专业学习：总时间：00:00 -->
-  - **生活技能** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:3/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
-    <!-- 生活技能：总时间：03:30 -->
+  - **生活技能** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:6/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[█===================]  
+    <!-- 生活技能：总时间：06:35 -->
 	- **办公软件** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:3/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
       <!-- 办公软件：总时间：03:30 -->
+	- **Premiere** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:3/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
+      <!-- Premiere：总时间：03:05 -->
