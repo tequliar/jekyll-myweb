@@ -18,12 +18,12 @@ sitemap:
 
 <!-- 网站居然不支持markdown的注释语法，好气啊 -->
 ## 一、技能树  
-- **我** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:27/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[█████===============]  
-  <!-- 我：总时间：27'07'' -->
+- **我** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:34/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[█████===============]  
+  <!-- 我：总时间：34'12'' -->
   - **英语** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }})  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:6/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[█===================]  
-    <!-- 英语总时间：06'07'' -->
+    <!-- 英语总时间：07'07'' -->
     - **单词** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:6/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[█===================]  
-      <!-- 单词：总时间：06'07'' -->
+      <!-- 单词：总时间：07'07'' -->
     - **阅读** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:0/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
       <!-- 阅读：总时间：00'00'' -->
     - **口语** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:0/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
@@ -32,12 +32,12 @@ sitemap:
       <!-- 听力：总时间：00'00'' -->
     - **写作** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:0/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
       <!-- 写作：总时间：00'00'' -->
-  - **语文** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:21/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[████================]  
-    <!-- 语文：总时间：21'00'' -->
+  - **语文** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:24/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[████================]  
+    <!-- 语文：总时间：23'35'' -->
     - **学习方法** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:0/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
       <!-- 学习方法：总时间：00'00'' -->
     - **文档撰写** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:21/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[████================]  
-      <!-- 文档撰写：总时间：21'00'' -->
+      <!-- 文档撰写：总时间：23'35'' -->
     - **课外阅读** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:0/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
       <!-- 课外阅读：总时间：00'00'' -->
   - **编程** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:0/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
@@ -50,5 +50,7 @@ sitemap:
       <!-- c：总时间：00'00'' -->
   - **专业学习** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:0/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
     <!-- 专业学习：总时间：00'00'' -->
-  - **生活技能** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:0/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
-    <!-- 生活技能：总时间：00'00'' -->
+  - **生活技能** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:3/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
+    <!-- 生活技能：总时间：03'30'' -->
+	- **办公软件** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:3/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
+      <!-- 办公软件：总时间：03'30'' -->
