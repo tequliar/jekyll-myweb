@@ -58,5 +58,5 @@ sitemap:
       <!-- 视频制作：总时间：03:05 -->
 	- **网站开发** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:0/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
       <!-- 网站开发：总时间：00:21 -->
-	- **口才说服** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:0/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
-      <!-- 口才说服：总时间：00:00 -->
+	- **演讲口才** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Lv1]({{ "/images/rank/01.gif" | absolute_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lv1:0/100** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[====================]  
+      <!-- 演讲口才：总时间：00:00 -->
